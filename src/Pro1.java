@@ -1,6 +1,7 @@
+// 1 Problem
+// Complexity: linear - O(n)
 import java.util.Scanner;
 
-// 1 Problem
 
 public class Pro1 {
     public static Scanner scanner = new Scanner(System.in);
